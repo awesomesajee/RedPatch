@@ -1588,3 +1588,15 @@ a:focus {
         padding: 0 5px;
     }
 }
+
+.img-logo {
+    width: 150px !important;
+    
+}
+.team-pic {
+    border-radius: 50% !important;
+    width: 80px;
+}
+.title-styles {
+    display:flex inline !important;
+}
